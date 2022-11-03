@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and Electron**
 
-- 📫 How to reach me **karoly.dev@serversforgaming.com**
+- 📫 How to reach me **rabkarolysandor2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
