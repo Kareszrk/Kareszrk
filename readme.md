@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on multiple projects. Such as **a game hosting platform, a cryptocurrency transactions analyzer, webshops and a fully own CMS system.**
 
-- 🌱 I’m currently learning **Java and Electron**
-
 - 📫 How to reach me **rabkarolysandor2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
