@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Károly</h1>
 <h3 align="center">A passionate backend developer from Hungary</h3>
 
-- 🔭 I’m currently working on multiple projects. Such as **an MLM-like webshop system, FiveM RolePlay GTA 5 Server and a social media platform**
+- 🔭 I’m currently working on multiple projects. Such as **an MLM system, FiveM RolePlay GTA 5 Server and a social media platform**
 
 - 📫 Let's talk! Get in touch with me via **contact@karoly.dev**
 
