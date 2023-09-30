@@ -12,8 +12,6 @@
   <li><a href="https://iranyaszallas.hu" target="blank">https://iranyaszallas.hu</a></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/karoly_rab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karoly_rab" height="30" width="40" /></a>
 <a href="https://fb.com/rabkarolysandor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabkarolysandor" height="30" width="40" /></a>
 </p>
 
@@ -35,3 +33,9 @@
 
 <h3>Me:</h3>
 <p>👋 Hi there! I've been passionate about programming since the age of 12, and it has become one of the most significant aspects of my self-realization. With over 9 years of experience, I'm constantly learning new things. 🚀 Apart from computer science, I'm interested in psychology, self-development, love going to the movies, and traveling. ✈️ My goal is to work or explore the USA for at least half a year. Driven by my passion for the English language, I use English comments in my codes all the time. Let's connect! 🌍</p>
+
+<h3 align="left">Need a hosting provider you can trust in? Use my link to get $200 free credit</h3>
+<p align="left">
+<ul>
+  <li><a href="https://m.do.co/c/7008370c0322" target="blank">https://m.do.co/c/7008370c0322</a></li>
+</ul>
