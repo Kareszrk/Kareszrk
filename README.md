@@ -1,6 +1,6 @@
 [<img src="https://raw.githubusercontent.com/Kareszrk/Kareszrk/main/myself_with_technologies.png" />](https://raw.githubusercontent.com/Kareszrk/Kareszrk/main/myself_with_technologies.png)
 <h1 align="center">Hi 👋, I'm Károly</h1>
-<h3 align="center">A passionate backend developer from Hungary</h3>
+<h3 align="center">A passionate end-to-end developer from Hungary</h3>
 
 - 🔭 I’m currently working on multiple projects.
 
