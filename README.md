@@ -34,8 +34,7 @@
 <h3>Me:</h3>
 <p>👋 Hi there! I've been passionate about programming since the age of 12, and it has become one of the most significant aspects of my self-realization. With over 9 years of experience, I'm constantly learning new things. 🚀 Apart from computer science, I'm interested in psychology, self-development, love going to the movies, and traveling. ✈️ My goal is to work or explore the USA for at least half a year. Driven by my passion for the English language, I use English comments in my codes all the time. Let's connect! 🌍</p>
 
-<h3 align="left">Need a hosting provider you can trust in? Use my link to get $200 free credit</h3>
+<h3 align="left">Need a hosting provider you can trust in? Use my link to get $200 free credit for DigitalOcean or choose Hetzner to get €20</h3>
 <p align="left">
-<ul>
-  <li><a href="https://m.do.co/c/7008370c0322" target="blank">https://m.do.co/c/7008370c0322</a></li>
-</ul>
+<a href="https://www.digitalocean.com/?refcode=7008370c0322&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+<a href="https://hetzner.cloud/?ref=n5YH7Zdui2OD"><img width="256" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_Hetzner.svg/1280px-Logo_Hetzner.svg.png" alt="Hetzner Referral badge" /></a>
