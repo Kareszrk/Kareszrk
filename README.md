@@ -1,47 +1,299 @@
-[<img src="https://raw.githubusercontent.com/Kareszrk/Kareszrk/main/myself_with_technologies.png" />](https://raw.githubusercontent.com/Kareszrk/Kareszrk/main/myself_with_technologies.png)
-<h1 align="center">Hi 👋, I'm Károly</h1>
-<h3 align="center">A passionate end-to-end developer from Hungary</h3>
-
-- 🔭 I’m currently working on multiple projects.
-
-- 📫 Let's talk! Get in touch with me via **contact@karoly.dev**
-
-<h3 align="left">Latest work(s):</h3>
-<p align="left">
-<ul>
-  <li><a href="https://iranyaszallas.hu" target="blank">https://iranyaszallas.hu</a></li>
-</ul>
-<h3 align="left">Connect with me:</h3>
-<a href="https://fb.com/rabkarolysandor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabkarolysandor" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kareszrk/Kareszrk/main/myself_with_technologies.png" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  <a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://bulma.io/favicons/favicon.ico?v=201701041855" alt="typescript" width="30" height="40"/> </a> <a href="https://sweetalert2.github.io" target="_blank" rel="noreferrer"> <img src="https://sweetalert2.github.io/images/favicon.png" alt="sweetalert2" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Progressive_web_app" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" alt="pwa" width="60" height="30"/> </a>  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png" alt="prisma" width="40" height="30"/> </a> <a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2024/02/cropped-docker-logo-favicon-180x180.png" alt="docker" width="40" height="30"/> </a> <a href="https://lottiefiles.com" target="_blank" rel="noreferrer"> <img src="https://static.lottiefiles.com/favicons-new/apple-icon-57x57.png" alt="lottie" width="40" height="40"/> </a> <a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2024/02/cropped-docker-logo-favicon-180x180.png" alt="docker" width="40" height="30"/> </a> <a href="https://www.cyberlink.com/products/powerdirector-video-editing-software/overview_en_EU.html" target="_blank" rel="noreferrer"> <img src="https://dl-asset.cyberlink.com/web/stat/edms/product-version-images/icon/PDR.svg" alt="lottie" width="40" height="40"/> </a> <a href="https://www.audacityteam.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Audacity_Logo_nofilter.svg/1024px-Audacity_Logo_nofilter.svg.png" alt="lottie" width="40" height="40"/> </a> <a href="https://www.vegascreativesoftware.com/int" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/VEGAS_Pro_icon.png" alt="lottie" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi, I'm Károly 👋</h1>
+<h3 align="center">Senior Full-Stack / Backend Engineer • TypeScript • Node.js • NestJS • Cloud</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kareszrk&show_icons=true&locale=en&layout=compact" alt="kareszrk" /></p>
+<p align="center">
+  <a href="mailto:contact@karoly.dev"><img src="https://img.shields.io/badge/Email-contact@karoly.dev-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/Kareszrk"><img src="https://img.shields.io/badge/GitHub-Kareszrk-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://fb.com/rabkarolysandor"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kareszrk&show_icons=true&locale=en" alt="kareszrk" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kareszrk&" alt="kareszrk" /></p>
+## 🚀 About Me  
+- 🧠 Started coding at **age 12**
+- 🛠️ Building large-scale **NestJS**, **Node.js**, **TypeScript**, **MySQL**, **Prisma** applications  
+- 💼 Prefer backend & infrastructure, but experienced in full-stack development  
+- 🔐 Specialized in **secure architectures**, **encryption systems**, **cloud deployments**  
+- 🎯 Goal: Work or explore the **USA** for at least half a year  
+- ✈️ Love: coding, psychology, movies, traveling  
 
-## About Me:
+---
 
-👋 Hi there! I've been passionate about programming since the age of 12, and it has become one of the most significant aspects of my self-realization. With over 9 years of experience, I'm constantly learning new things. 🚀 Apart from computer science, I'm interested in psychology, self-development, love going to the movies, and traveling. ✈️ My goal is to work or explore the USA for at least half a year. Driven by my passion for the English language, I use English comments in my codes all the time. Let's connect! 🌍
+### **🎓 Education & Qualifications**
+<details>
+<summary><b>Click to expand</b></summary>
 
-## Need a hosting provider you can trust?
+### 📘 **2022 — System Maintenance Specialist (FEOR 3142/9)**
+**Budapesti Gépészeti SZC Ganz Ábrahám Bilingual Technical School**  
+`System Maintenance • Legacy Systems • Optimization • Diagnostics`
 
-Use my link to get $200 free credit for [DigitalOcean](https://www.digitalocean.com/?refcode=7008370c0322&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) or choose [Hetzner](https://hetzner.cloud/?ref=n5YH7Zdui2OD) to get €20.
-| Image                                                                                                                                                                                                             | Title & Description                                                                                                                                                                                                                                                                                              |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://steamuserimages-a.akamaihd.net/ugc/2478738934040704229/4634EB98F4DF2E7790DBEB604379FD6232863A80/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="200" /> | **Vehicles Mod for Call To Arms** <br /> This is a freely available mod for the game called Call To Arms. <br />This mod gives players 18 vehicles, enhancing the player experience and immersion.<br />[Visit Steam - Civilian Vehicles Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3165205491) |
-| <img src="https://steamuserimages-a.akamaihd.net/ugc/61455298439197417/90664E85C0DB21763389EE5D392821661B44221C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="200" />   | **More Civilian Vehicles Mod with Custom Control & Damage System** <br /> Added more vehicles and implemented a custom damage and vehicle control system for ultimate immersion.<br />[Visit Steam - Civilian Vehicles Mod v2](https://steamcommunity.com/sharedfiles/filedetails/?id=3364740940)                |
-| <img src="https://steamuserimages-a.akamaihd.net/ugc/2341377878056659270/63EF376780205B42E878C67C3667DCD01EB75EBD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="200" /> | **Pickupable Money + Nations Flags Mod** <br />Developed in-game currency items for trading or placing on maps, alongside nation flags.<br />[Visit Steam - Pickupable Money + Nations Flags Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3157924757)                                             |
-| <img src="https://steamuserimages-a.akamaihd.net/ugc/61455298433844508/C2F0764D1037794B1A9626C9A344D2D878365A45/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="200" />   | **Lawyer, Hungarian Police, Citizens, and Presidential Uniforms** <br />Added suits, Hungarian police uniforms, and presidential attire.<br />[Visit Steam - Lawyer, Hungarian Police, Citizens, and Presidential Uniforms](https://steamcommunity.com/sharedfiles/filedetails/?id=3362936498)                   |
-| <img src="https://steamuserimages-a.akamaihd.net/ugc/61456022160143384/36D317A60246E2D53B86B48E07080255330DFCAF/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="200" />   | **Role-playing items + EUR money** <br />Adds collectible role-play items including licenses, credentials, and Euros for immersive gameplay.<br />[Visit Steam - Role-playing items + EUR money](https://steamcommunity.com/sharedfiles/filedetails/?id=3368521214)                                              |
-| <img src="https://steamuserimages-a.akamaihd.net/ugc/61456022160955062/48A7B31E1F2FFDB6B458C2C773AED8BD52F9756E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="200" />   | **Huge City Map** <br />A comprehensive city map utilizing all previously published mods.<br />[Visit Steam - Huge City Map](https://steamcommunity.com/sharedfiles/filedetails/?id=3368724225)                                                                                                                  |
-| <img src="https://steamuserimages-a.akamaihd.net/ugc/61464811426844751/0DA5D1C7E479901051E815DF799FCC7C7A6BAB78/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="200" />   | **Baton Decorative Item** <br />Added a baton item for characters to enhance role-playing.<br />[Visit Steam - Baton Decorative Item](https://steamcommunity.com/sharedfiles/filedetails/?id=3433544985)                                                                                                         |
-| <img src="https://images.steamusercontent.com/ugc/16581559292779445180/D9AF40D9B2C4E99B44462FCAB3D0539B07B58728/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="200" />   | **Rivertown Enhanced** <br />Enhanced Rivertown with vehicle and pedestrian traffic, plus new enterable buildings.<br />[Visit Steam - Rivertown Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=3491357365)                                                                                    |
-| <img src="https://yt3.googleusercontent.com/Kb5sy5h1rwwSJJE3D8RXk8WkhAJbItUr_T8-CTZTRfRRbE19s5adQqir3Pz_YYAwHq4GlsQLSw=s160-c-k-c0x00ffffff-no-rj" width="100" />                                                 | **Musics** <br />Original music produced using AI technology.<br />[Visit YouTube Kareszrk](https://www.youtube.com/@Kareszrk)                                                                                                                                                                                   |
+🛠️ During this training, I learned how to maintain, update, and optimize legacy systems, including hardware diagnostics, software upgrades, and stability improvements across outdated or poorly maintained infrastructures.
 
-### Latest published code snippet
+---
+
+### 🎓 **2018–2022 — Secondary School Graduation (Érettségi)**
+**Budapesti Gépészeti SZC Ganz Ábrahám Bilingual Technical School**  
+`Mathematics • Physics • Technical Fundamentals`
+
+📐 Completed a rigorous bilingual program.  
+Strong focus on mathematics, physics, and applied technical sciences, building the analytical mindset that later shaped my engineering approach.
+
+---
+
+### 💡 **2016–2018 — Electronics & IT Technician Training**
+**Budapesti Műszaki SZC Pataky István Híradásipari és Informatikai Szakgimnáziuma**  
+`Electronics • Diagnostics • Hardware • Networking`
+
+🔧 Acquired hands-on knowledge about electronic systems, component-level troubleshooting, hardware–software integration, and networking architectures.  
+Even though I did not complete the final state exam, the technical experience had a major impact on my future development work.
+
+---
+
+### 🖥️ **2015–2016 — International Computer Driving License (ICDL)**
+**John von Neumann Computer Science Society**  
+`Word Processing • Spreadsheets • Presentations • OS Usage • Online Tools`
+
+🌐 Completed 5 ICDL modules, covering essential everyday IT competencies, including document editing, OS navigation, spreadsheets, slideshows, and safe internet usage, laying the foundation for my early development tasks.
+
+---
+
+### 🏫 **2008–2016 — Primary School (Bilingual Program)**
+**Molnár Ferenc Hungarian–English Bilingual Primary School**  
+`English • Early IT Experience • Web Maintenance`
+
+📚 Learned English from an early age and completed my ICDL preparation here.  
+🖥️ From 5th grade, I regularly assisted the school’s system administrator with maintaining the school's computers and website — giving me my very first practical experience in system maintenance and web development.
+
+---
+</details>
+
+## 🛠️ Tech Stack
+
+### **Backend & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,php,python,prisma,mysql,mongodb,sqlite,redis,docker,nginx,linux,firebase,cs,cloudflare,supabase,ubuntu,workers,wordpress,windows,bots,debian,bash," />
+</p>
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,sass,js,ts,angular,jquery,less,sass,vue,wasm,svg,materialui,md,d3," />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,python,blender,vscode,gitlab,arduino,discordjs,electron,githubactions,npm,regex,vite,yarn,webpack,vim,sublime,stackoverflow,powershell,atom," />
+</p>
+
+---
+
+## 🔭 Latest Projects  
+### **Website work**
+- ➤ https://iranyaszallas.hu
+
+### **Game Mods (Call To Arms)**
+I’ve built multiple mods over time, and I’m grateful that the community has shown such support. Most of my work has earned hundreds of subscribers, and a few — including Civilian Vehicles v1 — have gone well beyond 1,000.
+<details>
+<summary><b>Click to expand</b></summary>
+
+Here are some of the mods I've built for enhancing realism, immersion, and gameplay systems in *Call To Arms*.  
+Each project includes custom assets, scripting, balancing, and performance optimization.
+
+---
+
+### 🚗 Vehicles Mod – 18 New Civilian Vehicles
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2478738934040704229/4634EB98F4DF2E7790DBEB604379FD6232863A80/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380" />
+
+**Features**
+- Adds 18 high-quality vehicles  
+- Custom interiors, sounds, and collision tuning  
+- Immersive civilian world-building  
+
+🔗 **Steam Workshop:**  
+https://steamcommunity.com/sharedfiles/filedetails/?id=3165205491
+
+---
+
+### 🚗 Civilian Vehicles v2 – Custom Damage + Control System
+<img src="https://steamuserimages-a.akamaihd.net/ugc/61455298439197417/90664E85C0DB21763389EE5D392821661B44221C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380" />
+
+**Features**
+- Advanced damage model (panels, glass, engine)  
+- Rewritten driving physics  
+- More vehicles, better handling, more realism  
+
+🔗 **Steam Workshop:**  
+https://steamcommunity.com/sharedfiles/filedetails/?id=3364740940
+
+---
+
+### 💵 Pickupable Money + Nations Flags
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2341377878056659270/63EF376780205B42E878C67C3667DCD01EB75EBD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380" />
+
+**Features**
+- Pickupable currency items  
+- Ideal for role-play scenarios and custom mission scripting  
+- Includes country flag props  
+
+🔗 **Steam Workshop:**  
+https://steamcommunity.com/sharedfiles/filedetails/?id=3157924757
+
+---
+
+### 👔 Lawyer, Police, Presidential & Civilian Uniforms
+<img src="https://steamuserimages-a.akamaihd.net/ugc/61455298433844508/C2F0764D1037794B1A9626C9A344D2D878365A45/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380" />
+
+**Features**
+- Hungarian police uniforms  
+- Civilian clothes  
+- Presidential attire  
+- Perfect for story missions & RP maps  
+
+🔗 **Steam Workshop:**  
+https://steamcommunity.com/sharedfiles/filedetails/?id=3362936498
+
+---
+
+### 🎒 Role-Playing Items + EUR Money
+<img src="https://images.steamusercontent.com/ugc/16067934275391250625/5C83750D163E9E0AAE8FD21516CE9053D27B1FB7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380" />
+
+**Features**
+- Realistic ID cards, documents, credentials  
+- High-resolution Euro banknotes  
+- Perfect immersion tools for custom missions  
+
+🔗 **Steam Workshop:**  
+https://steamcommunity.com/sharedfiles/filedetails/?id=3368521214
+
+---
+
+### 🏙️ Huge City Map – Full Immersive Sandbox
+<img src="https://steamuserimages-a.akamaihd.net/ugc/61456022160955062/48A7B31E1F2FFDB6B458C2C773AED8BD52F9756E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380" />
+
+**Features**
+- Large, hand-built open-world city  
+- Pedestrian & vehicle traffic  
+- Uses all previous content in one unified environment  
+
+🔗 **Steam Workshop:**  
+https://steamcommunity.com/sharedfiles/filedetails/?id=3368724225
+
+---
+
+### 🦺 Baton Decorative Item
+<img src="https://steamuserimages-a.akamaihd.net/ugc/61464811426844751/0DA5D1C7E479901051E815DF799FCC7C7A6BAB78/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380" />
+
+**Features**
+- Baton model for characters  
+- Perfect for law-enforcement themed missions  
+
+🔗 **Steam Workshop:**  
+https://steamcommunity.com/sharedfiles/filedetails/?id=3433544985
+
+---
+
+### 🌆 Rivertown Enhanced – Expanded Map + Traffic
+<img src="https://images.steamusercontent.com/ugc/16581559292779445180/D9AF40D9B2C4E99B44462FCAB3D0539B07B58728/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380" />
+
+**Features**
+- Updated Rivertown with:  
+  - New enterable buildings  
+  - Pedestrian paths  
+  - Vehicle systems  
+- Massive immersion improvement  
+
+🔗 **Steam Workshop:**  
+https://steamcommunity.com/sharedfiles/filedetails/?id=3491357365
+</details>
+
+---
+
+### **Game Mods (Call to Arms - Gates of Hell: Ostfront)**
+<details>
+<summary><b>Click to expand</b></summary>
+Here are a few map/mod projects I developed for the “GOH” environment of Call to Arms.  
+Each item includes a screenshot, a title, a short description, and a Steam Workshop link.
+
+---
+
+### 🏙️ **Roleplay - Betterland**
+<img src="https://images.steamusercontent.com/ugc/9400890171156863656/C1B3A422CC08C7933AF42FBAB3B60A9A8D0C9073/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380" />
+
+**Description**  
+A fully built city map with vehicle and pedestrian traffic, designed for role-play scenarios and immersive single-player or co-op gameplay.  
+
+**Features**
+- Enterable buildings
+- Pedestrian paths  
+- Vehicle systems  
+
+🔗 **Steam Workshop:**  
+https://steamcommunity.com/sharedfiles/filedetails/?id=3590391887
+
+---
+
+### 🏞️ **Roleplay - LongIsland**
+<img src="https://images.steamusercontent.com/ugc/12031705122578254180/1433B30E44B4E22AF4C5638D810E5BC2CFE18DE9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380" />
+
+**Description**  
+Map created with enhanced vehicle and pedestrian systems, optimized for a relaxed role-play environment with realistic traffic patterns.  
+
+**Features**
+- Enterable buildings
+- Pedestrian paths  
+- Vehicle systems  
+
+🔗 **Steam Workshop:**  
+https://steamcommunity.com/sharedfiles/filedetails/?id=3591704607
+
+---
+
+### 🌃 **Roleplay - New York**
+<img src="https://images.steamusercontent.com/ugc/12146152562785606962/4B93CBE77D38CAC324BD46B8172939F930D55A57/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380" />
+
+**Description**  
+Large-scale city map featuring custom animations and full traffic dynamics, built for advanced role-play setups and immersive scenarios.  
+
+**Features**
+- Enterable buildings
+- Animated people and scenes
+- Pedestrian paths  
+- Vehicle systems  
+- Massive immersion improvement 
+
+🔗 **Steam Workshop:**  
+https://steamcommunity.com/sharedfiles/filedetails/?id=3602859181
+
+</details>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kareszrk&show_icons=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareszrk&layout=compact&theme=tokyonight" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kareszrk&theme=tokyonight" />
+</p>
+
+---
+
+## 💡 Latest Code Snippet  
 https://gist.github.com/Kareszrk/41757f7d0e49b99383705c301770eb28
+
+---
+
+## ☁️ Need reliable hosting?
+Use my referral bonuses:
+- 🟦 **DigitalOcean** – $200 credit → https://www.digitalocean.com/?refcode=7008370c0322  
+- 🔶 **Hetzner** – €20 credit → https://hetzner.cloud/?ref=n5YH7Zdui2OD  
+
+---
+
+<p align="center">⭐ If you like my work, consider starring my repositories!</p>
