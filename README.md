@@ -27,6 +27,12 @@
 <details>
 <summary><b>Click to expand</b></summary>
 
+### 🚙 **2025 — Driver's license**
+I have driver's license for the following categories:
+### B, B1, AM, T, K
+
+---
+
 ### 📘 **2022 — System Maintenance Specialist (FEOR 3142/9)**
 **Budapesti Gépészeti SZC Ganz Ábrahám Bilingual Technical School**  
 `System Maintenance • Legacy Systems • Optimization • Diagnostics`
