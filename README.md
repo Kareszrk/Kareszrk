@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Kareszrk/Kareszrk/main/myself_with_technologies.png" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Károly 👋</h1>
+<h1 align="center">Hi, I'm Károly 😎</h1>
 <h3 align="center">Senior Full-Stack / Backend Engineer • TypeScript • Node.js • NestJS • Cloud</h3>
 
 <p align="center">
@@ -274,19 +274,6 @@ Large-scale city map featuring custom animations and full traffic dynamics, buil
 https://steamcommunity.com/sharedfiles/filedetails/?id=3602859181
 
 </details>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareszrk&show_icons=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareszrk&layout=compact&theme=tokyonight" height="170px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kareszrk&theme=tokyonight" />
-</p>
 
 ---
 
