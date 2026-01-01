@@ -99,6 +99,7 @@ Even though I did not complete the final state exam, the technical experience ha
 ## 🔭 Latest Projects  
 ### **Website work**
 - ➤ https://iranyaszallas.hu
+- ➤ https://karoly.dev
 
 ### **Game Mods (Call To Arms)**
 I’ve built multiple mods over time, and I’m grateful that the community has shown such support. Most of my work has earned hundreds of subscribers, and a few — including Civilian Vehicles v1 — have gone well beyond 1,000.
