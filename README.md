@@ -99,6 +99,7 @@ Even though I did not complete the final state exam, the technical experience ha
 ## 🔭 Latest Projects  
 ### **Website work**
 - ➤ https://iranyaszallas.hu
+- ➤ https://salvoxvard.com
 - ➤ https://karoly.dev
 
 ### **Game Mods (Call To Arms)**
